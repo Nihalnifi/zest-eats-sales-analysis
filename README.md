@@ -57,19 +57,6 @@ The project demonstrates the use of:
 * HAVING
 * Business-oriented SQL queries
 
-## Project Structure
-
-```text
-zest-eats-sales-analysis/
-│
-├── README.md
-│
-├── dataset/
-│   └── dataset files
-│
-└── sql/
-    └── SQL analysis queries
-```
 
 ## Key Objective
 
