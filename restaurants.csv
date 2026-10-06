@@ -1,0 +1,151 @@
+restaurant_id,restaurant_name,city,cuisine_type,avg_prep_time_min,commission_rate,avg_rating,is_active,opened_date,min_order_value
+1,Dragon Palace - Mum1,Mumbai,Burgers,27,0.26,3.7,1,2020-04-12,99
+2,South Spice - Mum2,Mumbai,North Indian,17,0.25,3.3,0,2022-10-25,199
+3,Momo Magic - Jai3,Jaipur,North Indian,42,0.21,4.5,0,2018-09-03,199
+4,Pizza Planet - Del4,Delhi,Street Food,44,0.18,4.7,0,2023-01-02,199
+5,Flavours of India - Hyd5,Hyderabad,Burgers,16,0.22,3.1,1,2018-11-07,249
+6,Dragon Palace - Mum6,Mumbai,North Indian,34,0.23,4.8,1,2023-01-07,199
+7,Mughal Darbar - Mum7,Mumbai,South Indian,39,0.27,3.1,0,2020-06-13,299
+8,Tandoor Tales - Jai8,Jaipur,Biryani,15,0.18,4.7,1,2020-05-11,199
+9,Burger Barn - Kol9,Kolkata,Street Food,28,0.16,4.2,0,2020-06-02,99
+10,The Biryani Box - Ban10,Bangalore,Burgers,44,0.16,3.4,1,2023-03-27,299
+11,Wrap It Up - Mum11,Mumbai,Pizza,26,0.26,3.5,1,2022-10-28,199
+12,Burger Barn - Mum12,Mumbai,Chinese,16,0.16,4.8,1,2022-11-30,99
+13,Mughal Darbar - Mum13,Mumbai,Burgers,45,0.29,4.6,1,2022-08-26,249
+14,Dragon Palace - Ban14,Bangalore,South Indian,39,0.25,3.5,1,2020-04-09,149
+15,Dragon Palace - Pun15,Pune,South Indian,21,0.24,3.5,1,2021-03-10,149
+16,Spice Garden - Mum16,Mumbai,Pizza,27,0.26,4.6,1,2018-01-26,149
+17,Wok & Roll - Hyd17,Hyderabad,Mughlai,17,0.22,4.9,1,2019-02-08,249
+18,Wok & Roll - Del18,Delhi,Pizza,23,0.18,3.1,1,2022-11-15,149
+19,Street Bites - Che19,Chennai,South Indian,42,0.16,3.0,1,2022-11-11,99
+20,Mughal Darbar - Pun20,Pune,Chinese,36,0.16,3.5,1,2022-08-08,299
+21,Dessert Dreams - Del21,Delhi,South Indian,15,0.17,4.7,1,2021-05-04,249
+22,Street Bites - Che22,Chennai,Burgers,15,0.19,4.3,0,2021-11-19,199
+23,Shake & Bake - Pun23,Pune,Pizza,40,0.3,3.9,1,2019-08-02,99
+24,Wok & Roll - Ban24,Bangalore,Burgers,28,0.2,3.8,1,2020-01-17,249
+25,South Spice - Che25,Chennai,North Indian,15,0.28,3.3,1,2022-06-06,149
+26,The Biryani Box - Del26,Delhi,Desserts,43,0.15,4.1,1,2021-10-14,99
+27,The Biryani Box - Che27,Chennai,Mughlai,22,0.26,4.0,1,2021-09-02,149
+28,Pizza Planet - Hyd28,Hyderabad,Burgers,36,0.18,3.7,0,2019-01-22,299
+29,Zesty Bites - Kol29,Kolkata,Biryani,36,0.2,3.2,1,2018-12-15,299
+30,Masala Magic - Mum30,Mumbai,Chinese,32,0.23,4.4,0,2022-11-03,249
+31,Dragon Palace - Jai31,Jaipur,North Indian,37,0.16,4.1,1,2018-06-06,199
+32,Dessert Dreams - Del32,Delhi,Pizza,40,0.25,4.6,1,2021-03-12,299
+33,Burger Barn - Ban33,Bangalore,Burgers,43,0.18,4.0,1,2020-08-24,99
+34,South Spice - Mum34,Mumbai,Pizza,20,0.26,3.9,1,2019-07-06,299
+35,Tandoor Tales - Hyd35,Hyderabad,Pizza,35,0.29,4.9,1,2019-04-29,99
+36,Royal Feast - Mum36,Mumbai,South Indian,23,0.25,4.4,0,2022-06-19,99
+37,The Biryani Box - Ban37,Bangalore,Continental,26,0.24,4.4,1,2019-01-29,99
+38,Burger Barn - Mum38,Mumbai,South Indian,16,0.19,4.4,1,2019-02-12,149
+39,Dragon Palace - Ban39,Bangalore,Chinese,44,0.17,4.7,1,2019-08-26,99
+40,Wrap It Up - Che40,Chennai,North Indian,17,0.21,4.7,1,2021-05-14,149
+41,Spice Garden - Hyd41,Hyderabad,Mughlai,26,0.26,4.1,0,2021-09-28,249
+42,Flavours of India - Del42,Delhi,Street Food,18,0.24,3.4,1,2018-03-13,149
+43,Foodie's Paradise - Mum43,Mumbai,Biryani,41,0.25,4.4,1,2021-03-20,299
+44,Curry House - Pun44,Pune,North Indian,38,0.29,3.4,0,2018-04-01,199
+45,Street Bites - Pun45,Pune,Biryani,41,0.19,4.2,1,2019-04-14,299
+46,The Biryani Box - Che46,Chennai,South Indian,18,0.21,3.0,1,2021-06-14,299
+47,Wrap It Up - Del47,Delhi,Mughlai,41,0.3,3.7,0,2018-05-07,249
+48,Street Bites - Hyd48,Hyderabad,Street Food,17,0.24,4.5,1,2018-07-07,199
+49,Zesty Bites - Del49,Delhi,Biryani,23,0.2,3.1,0,2021-05-01,149
+50,South Spice - Del50,Delhi,Biryani,37,0.18,3.8,1,2023-02-22,249
+51,Wok & Roll - Ban51,Bangalore,North Indian,20,0.21,3.8,1,2018-10-02,199
+52,Burger Barn - Del52,Delhi,Mughlai,36,0.17,4.6,1,2022-09-20,199
+53,Royal Feast - Hyd53,Hyderabad,North Indian,31,0.28,4.2,0,2022-07-17,249
+54,Foodie's Paradise - Kol54,Kolkata,Burgers,38,0.24,3.8,1,2020-08-24,99
+55,South Spice - Hyd55,Hyderabad,Biryani,23,0.18,4.1,1,2019-02-21,199
+56,Flavours of India - Jai56,Jaipur,South Indian,26,0.25,3.7,1,2020-02-02,199
+57,Tandoor Tales - Kol57,Kolkata,North Indian,37,0.19,3.1,1,2022-07-02,249
+58,Chaat Corner - Mum58,Mumbai,Desserts,23,0.21,3.9,1,2022-10-18,199
+59,The Hungry Hub - Del59,Delhi,Pizza,33,0.26,4.4,0,2023-05-30,199
+60,Tandoor Tales - Del60,Delhi,South Indian,26,0.23,4.9,1,2021-04-16,299
+61,Shake & Bake - Ban61,Bangalore,Continental,17,0.21,4.7,1,2019-07-05,199
+62,Desi Dhaba - Del62,Delhi,Pizza,44,0.15,3.6,1,2023-04-06,199
+63,Fire & Spice - Mum63,Mumbai,Chinese,39,0.21,3.3,1,2021-02-27,299
+64,Chaat Corner - Del64,Delhi,Mughlai,20,0.17,4.8,1,2020-05-08,149
+65,Street Bites - Del65,Delhi,Biryani,18,0.19,3.7,0,2020-06-07,99
+66,South Spice - Kol66,Kolkata,Burgers,33,0.18,4.5,1,2021-07-14,99
+67,Desi Dhaba - Che67,Chennai,Street Food,21,0.26,3.1,1,2019-11-15,249
+68,Street Bites - Mum68,Mumbai,Street Food,43,0.15,4.0,1,2019-01-14,249
+69,Fire & Spice - Pun69,Pune,Street Food,19,0.29,3.2,1,2021-10-19,99
+70,Dessert Dreams - Kol70,Kolkata,South Indian,20,0.18,4.5,1,2019-07-02,249
+71,Wrap It Up - Kol71,Kolkata,Mughlai,23,0.19,4.3,0,2022-03-28,99
+72,Pizza Planet - Ban72,Bangalore,Burgers,20,0.28,4.8,1,2022-07-02,249
+73,The Rice Bowl - Del73,Delhi,Biryani,19,0.18,3.8,1,2022-11-29,249
+74,Chaat Corner - Hyd74,Hyderabad,Chinese,21,0.22,3.2,0,2018-05-25,199
+75,Spicy Fingers - Mum75,Mumbai,Chinese,32,0.16,4.8,1,2022-06-01,99
+76,Curry House - Mum76,Mumbai,North Indian,42,0.25,4.4,1,2019-08-02,199
+77,Flavours of India - Hyd77,Hyderabad,Continental,18,0.21,4.1,1,2022-11-18,99
+78,Shake & Bake - Kol78,Kolkata,Biryani,31,0.27,4.3,1,2019-05-27,99
+79,Tandoor Tales - Mum79,Mumbai,Chinese,26,0.2,3.3,1,2019-07-01,99
+80,Foodie's Paradise - Hyd80,Hyderabad,Burgers,35,0.28,4.5,1,2021-03-06,299
+81,Naan Stop - Pun81,Pune,Mughlai,36,0.18,3.4,1,2021-10-07,149
+82,Dragon Palace - Hyd82,Hyderabad,Street Food,34,0.24,3.0,1,2022-01-11,149
+83,The Rice Bowl - Del83,Delhi,North Indian,28,0.21,4.0,0,2021-12-29,249
+84,The Biryani Box - Kol84,Kolkata,Pizza,29,0.16,3.4,1,2019-01-11,299
+85,The Rice Bowl - Mum85,Mumbai,Mughlai,27,0.16,3.0,1,2021-05-16,99
+86,Naan Stop - Hyd86,Hyderabad,Continental,32,0.18,4.8,1,2023-05-18,149
+87,Dragon Palace - Mum87,Mumbai,Mughlai,36,0.27,4.2,0,2020-03-25,299
+88,Momo Magic - Del88,Delhi,Chinese,21,0.2,4.4,1,2019-10-14,149
+89,Dragon Palace - Jai89,Jaipur,North Indian,20,0.29,4.0,1,2023-03-03,199
+90,Royal Feast - Jai90,Jaipur,Chinese,36,0.28,4.1,1,2023-05-16,149
+91,Wok & Roll - Che91,Chennai,Chinese,16,0.21,4.6,1,2020-11-14,149
+92,Naan Stop - Hyd92,Hyderabad,Street Food,22,0.27,4.2,1,2020-01-31,99
+93,Momo Magic - Hyd93,Hyderabad,Pizza,23,0.21,4.5,1,2020-01-05,99
+94,The Hungry Hub - Hyd94,Hyderabad,South Indian,32,0.29,4.5,1,2020-10-03,149
+95,Spice Garden - Pun95,Pune,North Indian,39,0.21,3.8,1,2020-06-10,249
+96,Street Bites - Ban96,Bangalore,Biryani,36,0.2,3.1,1,2022-01-19,99
+97,Naan Stop - Del97,Delhi,Pizza,40,0.18,4.2,1,2018-09-26,249
+98,Oven Fresh - Del98,Delhi,North Indian,39,0.29,3.7,1,2018-02-22,299
+99,Dessert Dreams - Hyd99,Hyderabad,Burgers,27,0.24,3.4,1,2022-08-27,249
+100,Naan Stop - Che100,Chennai,North Indian,40,0.15,3.3,1,2021-09-12,149
+101,South Spice - Mum101,Mumbai,Burgers,35,0.22,3.3,1,2019-04-11,199
+102,The Biryani Box - Kol102,Kolkata,Burgers,39,0.26,4.7,1,2021-12-08,299
+103,Zesty Bites - Hyd103,Hyderabad,Chinese,33,0.29,3.9,1,2021-08-17,249
+104,Wrap It Up - Ban104,Bangalore,North Indian,34,0.3,3.4,1,2021-04-24,99
+105,Flavours of India - Kol105,Kolkata,Biryani,45,0.23,4.2,1,2021-07-30,199
+106,Street Bites - Pun106,Pune,Continental,45,0.24,4.1,0,2020-08-17,149
+107,Pizza Planet - Hyd107,Hyderabad,Burgers,27,0.2,3.4,0,2022-12-02,199
+108,Wok & Roll - Del108,Delhi,North Indian,20,0.17,3.1,1,2020-12-20,249
+109,The Rice Bowl - Del109,Delhi,Desserts,33,0.25,4.5,1,2018-01-22,99
+110,Spice Garden - Mum110,Mumbai,Continental,29,0.21,3.6,1,2021-09-14,249
+111,Chaat Corner - Del111,Delhi,Chinese,29,0.29,4.7,1,2019-09-18,249
+112,Wrap It Up - Del112,Delhi,Biryani,16,0.19,3.6,1,2020-01-29,199
+113,The Grill Station - Hyd113,Hyderabad,Pizza,16,0.24,3.7,1,2021-08-18,299
+114,Wok & Roll - Jai114,Jaipur,Chinese,18,0.28,4.1,1,2022-11-04,249
+115,Street Bites - Del115,Delhi,North Indian,26,0.24,4.4,1,2020-12-22,99
+116,Wok & Roll - Ban116,Bangalore,Pizza,36,0.18,3.6,0,2020-09-02,299
+117,Desi Dhaba - Kol117,Kolkata,Burgers,32,0.28,4.5,1,2020-12-19,199
+118,Masala Magic - Hyd118,Hyderabad,South Indian,25,0.26,4.7,0,2020-06-26,149
+119,Desi Dhaba - Hyd119,Hyderabad,Mughlai,40,0.28,4.2,1,2023-02-18,299
+120,Street Bites - Che120,Chennai,South Indian,37,0.29,3.5,1,2020-06-04,149
+121,Zesty Bites - Pun121,Pune,Street Food,23,0.15,4.4,1,2022-10-11,149
+122,Burger Barn - Del122,Delhi,Burgers,31,0.21,4.2,1,2019-11-10,299
+123,South Spice - Che123,Chennai,Burgers,43,0.23,4.6,1,2020-02-14,149
+124,Pizza Planet - Jai124,Jaipur,Desserts,39,0.24,3.2,1,2018-12-24,249
+125,Shake & Bake - Mum125,Mumbai,Chinese,43,0.28,3.7,1,2021-07-06,199
+126,The Grill Station - Ban126,Bangalore,Burgers,42,0.27,3.1,1,2020-07-26,199
+127,Zesty Bites - Ban127,Bangalore,South Indian,44,0.16,4.4,1,2018-06-19,99
+128,Burger Barn - Pun128,Pune,Street Food,18,0.17,3.2,1,2021-12-04,199
+129,Momo Magic - Del129,Delhi,Chinese,37,0.24,3.4,1,2023-05-06,249
+130,Spice Garden - Ban130,Bangalore,Chinese,40,0.16,4.1,1,2018-08-02,199
+131,Dragon Palace - Del131,Delhi,South Indian,23,0.25,3.8,1,2018-08-14,149
+132,Dessert Dreams - Ban132,Bangalore,Chinese,43,0.18,4.7,1,2021-06-19,149
+133,Dessert Dreams - Hyd133,Hyderabad,North Indian,42,0.19,3.6,1,2020-04-03,249
+134,Tandoor Tales - Hyd134,Hyderabad,North Indian,22,0.25,4.4,1,2021-05-16,299
+135,Spicy Fingers - Mum135,Mumbai,Pizza,43,0.3,4.2,1,2019-03-14,299
+136,Momo Magic - Del136,Delhi,Biryani,45,0.16,4.7,1,2022-02-22,249
+137,Wrap It Up - Del137,Delhi,Pizza,21,0.3,3.6,1,2018-07-01,149
+138,Street Bites - Ban138,Bangalore,Mughlai,26,0.29,3.3,1,2023-03-09,199
+139,Masala Magic - Del139,Delhi,South Indian,39,0.2,4.7,0,2019-05-11,149
+140,Tandoor Tales - Mum140,Mumbai,Desserts,34,0.27,3.0,1,2020-10-22,249
+141,Zesty Bites - Jai141,Jaipur,South Indian,43,0.15,3.0,1,2021-06-22,249
+142,Flavours of India - Mum142,Mumbai,Biryani,36,0.29,4.5,1,2018-02-03,249
+143,Momo Magic - Ban143,Bangalore,Biryani,34,0.24,4.4,1,2018-06-26,149
+144,Royal Feast - Hyd144,Hyderabad,South Indian,17,0.29,3.3,1,2022-12-13,299
+145,Shake & Bake - Del145,Delhi,Pizza,22,0.15,3.5,0,2019-02-14,99
+146,Burger Barn - Ban146,Bangalore,Pizza,45,0.3,4.1,1,2018-02-20,99
+147,Flavours of India - Hyd147,Hyderabad,Continental,36,0.27,3.6,0,2018-07-01,249
+148,Spicy Fingers - Pun148,Pune,Chinese,41,0.19,4.7,1,2018-11-12,249
+149,Mughal Darbar - Hyd149,Hyderabad,Pizza,41,0.19,3.2,1,2023-02-10,149
+150,Dessert Dreams - Del150,Delhi,Chinese,35,0.23,4.0,0,2019-04-24,249

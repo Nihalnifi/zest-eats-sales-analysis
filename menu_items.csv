@@ -1,0 +1,751 @@
+item_id,restaurant_id,item_name,category,price,is_available,is_veg
+1,101,Chicken Tikka,Starters,120.0,1,0
+2,127,Papad,Sides,40.0,1,1
+3,50,Buttermilk,Beverages,100.0,1,1
+4,42,Garlic Naan,Breads,50.0,1,1
+5,15,Gulab Jamun,Desserts,80.0,1,1
+6,12,Crispy Corn,Starters,200.0,1,1
+7,111,Fried Rice,Rice & Biryani,320.0,1,0
+8,77,Student Special,Combos,460.0,1,0
+9,97,Dal Makhani,Main Course,280.0,1,1
+10,43,Mango Shake,Beverages,90.0,1,1
+11,140,Ice Cream,Desserts,80.0,1,1
+12,141,Paratha,Breads,60.0,1,1
+13,92,Garlic Naan,Breads,40.0,1,1
+14,26,Fish Fry,Starters,120.0,1,1
+15,96,Student Special,Combos,670.0,1,0
+16,119,Nimbu Pani,Beverages,90.0,1,1
+17,51,Egg Curry,Main Course,330.0,1,1
+18,84,Ice Cream,Desserts,110.0,1,1
+19,57,Crispy Corn,Starters,110.0,1,1
+20,99,Buttermilk,Beverages,90.0,1,1
+21,123,Meal for 2,Combos,640.0,1,1
+22,100,Mango Shake,Beverages,80.0,1,1
+23,35,Kadai Chicken,Main Course,310.0,1,1
+24,32,Paratha,Breads,50.0,1,1
+25,27,Value Meal,Combos,420.0,1,1
+26,60,Mutton Biryani,Rice & Biryani,300.0,1,1
+27,94,Mango Shake,Beverages,60.0,1,1
+28,15,Fish Curry,Main Course,210.0,1,1
+29,55,Brownie,Desserts,110.0,1,1
+30,42,Garlic Naan,Breads,60.0,1,1
+31,100,Nimbu Pani,Beverages,100.0,1,1
+32,73,Chole Masala,Main Course,290.0,1,0
+33,103,Cold Coffee,Beverages,60.0,1,1
+34,19,Veg Kolhapuri,Main Course,310.0,1,1
+35,46,Fried Rice,Rice & Biryani,310.0,1,0
+36,14,Gulab Jamun,Desserts,80.0,1,1
+37,149,Gulab Jamun,Desserts,100.0,1,1
+38,105,Family Combo,Combos,620.0,1,1
+39,90,Paratha,Breads,70.0,1,1
+40,5,Chicken Tikka,Starters,160.0,1,0
+41,66,Mutton Rogan Josh,Main Course,310.0,1,0
+42,11,Rasgulla,Desserts,110.0,1,1
+43,146,Lachha Paratha,Breads,50.0,1,1
+44,86,Fish Curry,Main Course,290.0,1,1
+45,120,Dal Makhani,Main Course,280.0,1,1
+46,37,Palak Paneer,Main Course,200.0,1,1
+47,146,Garlic Naan,Breads,40.0,1,1
+48,6,Dal Makhani,Main Course,180.0,1,1
+49,43,Fried Rice,Rice & Biryani,330.0,1,1
+50,148,Jeera Rice,Rice & Biryani,300.0,1,0
+51,17,Lachha Paratha,Breads,50.0,1,1
+52,69,Jeera Rice,Rice & Biryani,330.0,1,0
+53,104,Chicken Curry,Main Course,200.0,1,0
+54,38,Student Special,Combos,510.0,1,0
+55,113,Paneer Tikka,Starters,140.0,1,1
+56,27,Mutton Biryani,Rice & Biryani,260.0,1,0
+57,1,Butter Chicken,Main Course,230.0,1,0
+58,138,Mutton Biryani,Rice & Biryani,260.0,1,1
+59,91,Soft Drink,Beverages,100.0,1,1
+60,105,Gajar Halwa,Desserts,80.0,1,1
+61,89,Mango Shake,Beverages,100.0,1,1
+62,146,Chicken Curry,Main Course,210.0,1,0
+63,137,Value Meal,Combos,680.0,1,0
+64,37,Ice Cream,Desserts,140.0,1,1
+65,58,Steam Rice,Rice & Biryani,330.0,0,1
+66,31,Dal Makhani,Main Course,220.0,1,1
+67,124,Chicken Tikka,Starters,120.0,1,0
+68,34,Value Meal,Combos,410.0,1,0
+69,60,Student Special,Combos,630.0,1,0
+70,88,Butter Naan,Breads,50.0,1,1
+71,82,Butter Chicken,Main Course,250.0,1,1
+72,130,Chicken Biryani,Rice & Biryani,270.0,0,0
+73,134,Cold Coffee,Beverages,70.0,1,1
+74,23,Paratha,Breads,70.0,1,1
+75,143,Chicken Biryani,Rice & Biryani,230.0,1,0
+76,90,Cold Coffee,Beverages,90.0,1,1
+77,109,Veg Spring Roll,Starters,180.0,1,1
+78,112,Pickle,Sides,50.0,1,1
+79,99,Value Meal,Combos,660.0,1,1
+80,35,Veg Kolhapuri,Main Course,280.0,1,1
+81,27,Chicken Curry,Main Course,280.0,1,0
+82,122,Tandoori Roti,Breads,70.0,1,1
+83,98,Samosa (2pc),Starters,170.0,1,1
+84,72,Veg Biryani,Rice & Biryani,180.0,1,1
+85,100,Butter Chicken,Main Course,270.0,1,1
+86,54,Soft Drink,Beverages,70.0,1,1
+87,100,Party Pack,Combos,510.0,1,0
+88,127,Jeera Rice,Rice & Biryani,310.0,1,1
+89,42,Egg Curry,Main Course,270.0,1,0
+90,68,Buttermilk,Beverages,100.0,1,1
+91,64,Kadai Chicken,Main Course,270.0,1,1
+92,5,Rasgulla,Desserts,120.0,1,1
+93,67,Party Pack,Combos,710.0,1,0
+94,27,Egg Curry,Main Course,180.0,1,0
+95,6,Rasgulla,Desserts,90.0,1,1
+96,61,Fried Rice,Rice & Biryani,210.0,1,0
+97,136,Lassi,Beverages,70.0,1,1
+98,129,Mutton Biryani,Rice & Biryani,270.0,1,1
+99,131,Family Combo,Combos,560.0,1,0
+100,5,Crispy Corn,Starters,190.0,0,0
+101,1,Chole Masala,Main Course,300.0,1,1
+102,19,Fried Rice,Rice & Biryani,300.0,1,0
+103,6,Party Pack,Combos,500.0,1,1
+104,123,Fried Rice,Rice & Biryani,240.0,1,1
+105,73,Butter Naan,Breads,50.0,1,1
+106,115,Family Combo,Combos,550.0,1,0
+107,8,Chicken Wings,Starters,150.0,1,0
+108,12,Mutton Rogan Josh,Main Course,230.0,0,0
+109,97,Chicken Biryani,Rice & Biryani,230.0,1,1
+110,72,Egg Biryani,Rice & Biryani,310.0,1,1
+111,148,Veg Spring Roll,Starters,190.0,1,1
+112,56,Value Meal,Combos,580.0,1,0
+113,55,Meal for 2,Combos,430.0,1,0
+114,98,Chicken Wings,Starters,130.0,1,1
+115,75,Kheer,Desserts,110.0,1,1
+116,66,Mutton Rogan Josh,Main Course,300.0,1,0
+117,97,Garlic Naan,Breads,40.0,1,1
+118,39,Veg Biryani,Rice & Biryani,170.0,1,1
+119,24,Chole Masala,Main Course,210.0,1,0
+120,1,Soft Drink,Beverages,60.0,1,1
+121,17,Family Combo,Combos,690.0,1,0
+122,144,Rasgulla,Desserts,120.0,1,1
+123,27,Tandoori Roti,Breads,60.0,1,1
+124,42,Jeera Rice,Rice & Biryani,220.0,1,1
+125,29,Mutton Rogan Josh,Main Course,210.0,1,0
+126,114,Family Combo,Combos,510.0,0,1
+127,81,Dal Makhani,Main Course,250.0,1,1
+128,143,Paneer Tikka,Starters,140.0,1,1
+129,45,Tandoori Roti,Breads,50.0,1,1
+130,62,Veg Biryani,Rice & Biryani,300.0,1,1
+131,136,Steam Rice,Rice & Biryani,310.0,1,1
+132,21,Mutton Rogan Josh,Main Course,300.0,0,1
+133,34,Kadai Chicken,Main Course,210.0,1,1
+134,85,Mutton Biryani,Rice & Biryani,200.0,1,1
+135,16,Family Combo,Combos,610.0,1,0
+136,72,Value Meal,Combos,530.0,1,0
+137,128,Family Combo,Combos,490.0,1,1
+138,34,Fish Fry,Starters,120.0,1,1
+139,32,Samosa (2pc),Starters,150.0,1,0
+140,144,Chicken Curry,Main Course,260.0,1,0
+141,18,Fried Rice,Rice & Biryani,190.0,1,1
+142,33,Fish Curry,Main Course,260.0,1,1
+143,120,Palak Paneer,Main Course,280.0,1,1
+144,146,Samosa (2pc),Starters,130.0,1,0
+145,96,Veg Biryani,Rice & Biryani,320.0,1,1
+146,73,Chole Masala,Main Course,190.0,1,0
+147,111,Paneer Tikka,Starters,160.0,1,1
+148,80,Butter Chicken,Main Course,270.0,1,1
+149,27,Chicken Tikka,Starters,160.0,1,1
+150,141,Mutton Rogan Josh,Main Course,240.0,1,1
+151,100,Brownie,Desserts,120.0,1,1
+152,63,Lachha Paratha,Breads,70.0,1,1
+153,124,Party Pack,Combos,590.0,1,0
+154,149,Chicken Biryani,Rice & Biryani,310.0,1,0
+155,15,Lachha Paratha,Breads,50.0,1,1
+156,105,Family Combo,Combos,660.0,1,0
+157,102,Fried Rice,Rice & Biryani,240.0,1,0
+158,144,Kadai Chicken,Main Course,270.0,0,1
+159,144,Dal Makhani,Main Course,320.0,1,1
+160,35,Garlic Naan,Breads,50.0,1,1
+161,86,Veg Spring Roll,Starters,180.0,1,1
+162,35,Veg Biryani,Rice & Biryani,290.0,1,1
+163,20,Gajar Halwa,Desserts,90.0,0,1
+164,81,Gulab Jamun,Desserts,90.0,0,1
+165,94,Paneer Tikka,Starters,180.0,1,1
+166,143,Value Meal,Combos,590.0,1,0
+167,75,Butter Naan,Breads,50.0,1,1
+168,135,Paratha,Breads,60.0,1,1
+169,126,Chole Masala,Main Course,310.0,1,0
+170,121,Nimbu Pani,Beverages,60.0,1,1
+171,55,Fish Curry,Main Course,180.0,1,0
+172,94,Kadai Chicken,Main Course,190.0,1,0
+173,134,Egg Biryani,Rice & Biryani,220.0,1,1
+174,60,Fish Fry,Starters,110.0,1,1
+175,130,Chicken Biryani,Rice & Biryani,310.0,1,0
+176,50,Palak Paneer,Main Course,230.0,1,1
+177,35,Tandoori Roti,Breads,70.0,1,1
+178,88,Paratha,Breads,60.0,1,1
+179,75,Hara Bhara Kebab,Starters,160.0,1,0
+180,35,Kadai Chicken,Main Course,190.0,1,1
+181,90,Fish Curry,Main Course,190.0,1,1
+182,76,Lassi,Beverages,90.0,1,1
+183,130,Kadai Chicken,Main Course,260.0,1,1
+184,126,Family Combo,Combos,500.0,1,0
+185,105,Chicken Wings,Starters,150.0,1,0
+186,134,Kadai Chicken,Main Course,250.0,1,1
+187,69,Chicken Wings,Starters,130.0,1,1
+188,128,Dal Makhani,Main Course,320.0,1,1
+189,15,Chicken Tikka,Starters,170.0,1,1
+190,102,Party Pack,Combos,550.0,1,1
+191,69,Gulab Jamun,Desserts,140.0,0,1
+192,10,Veg Kolhapuri,Main Course,270.0,1,1
+193,37,Veg Spring Roll,Starters,150.0,1,1
+194,24,Value Meal,Combos,670.0,1,1
+195,109,Dal Makhani,Main Course,270.0,1,1
+196,96,Chicken Curry,Main Course,340.0,1,0
+197,70,Tandoori Roti,Breads,60.0,1,1
+198,105,Family Combo,Combos,570.0,1,1
+199,148,Egg Biryani,Rice & Biryani,300.0,1,1
+200,20,Meal for 2,Combos,660.0,1,1
+201,24,Gulab Jamun,Desserts,100.0,1,1
+202,6,Egg Biryani,Rice & Biryani,300.0,0,0
+203,125,Fish Fry,Starters,190.0,1,0
+204,34,Chicken Curry,Main Course,280.0,1,0
+205,84,Lachha Paratha,Breads,50.0,1,1
+206,61,Salad,Sides,60.0,1,1
+207,50,Ice Cream,Desserts,70.0,1,1
+208,39,Buttermilk,Beverages,60.0,0,1
+209,148,Salad,Sides,50.0,1,1
+210,70,Salad,Sides,50.0,1,1
+211,60,Palak Paneer,Main Course,350.0,0,1
+212,14,Mango Shake,Beverages,100.0,1,1
+213,16,Steam Rice,Rice & Biryani,280.0,1,0
+214,1,Mutton Rogan Josh,Main Course,190.0,1,1
+215,111,Steam Rice,Rice & Biryani,210.0,1,0
+216,46,Chicken Curry,Main Course,320.0,1,0
+217,100,Lachha Paratha,Breads,50.0,0,1
+218,144,Samosa (2pc),Starters,160.0,1,1
+219,26,Cold Coffee,Beverages,100.0,1,1
+220,35,Chole Masala,Main Course,190.0,1,1
+221,126,Samosa (2pc),Starters,110.0,1,0
+222,31,Butter Naan,Breads,60.0,1,1
+223,10,Fish Curry,Main Course,270.0,1,1
+224,37,Paneer Tikka,Starters,120.0,1,1
+225,111,Lassi,Beverages,110.0,1,1
+226,10,Hara Bhara Kebab,Starters,190.0,1,1
+227,115,Hara Bhara Kebab,Starters,120.0,0,0
+228,5,Egg Curry,Main Course,280.0,1,0
+229,82,Chole Masala,Main Course,340.0,1,0
+230,8,Rasgulla,Desserts,120.0,1,1
+231,121,Brownie,Desserts,100.0,1,1
+232,19,Fish Curry,Main Course,280.0,1,1
+233,138,Fish Fry,Starters,160.0,1,0
+234,127,Kheer,Desserts,130.0,1,1
+235,48,Lassi,Beverages,110.0,1,1
+236,29,Chicken Biryani,Rice & Biryani,250.0,1,1
+237,54,Butter Chicken,Main Course,350.0,1,0
+238,122,Palak Paneer,Main Course,210.0,1,1
+239,103,Palak Paneer,Main Course,240.0,1,1
+240,96,Dal Makhani,Main Course,200.0,1,1
+241,146,Lassi,Beverages,90.0,1,1
+242,130,Paratha,Breads,70.0,1,1
+243,6,Palak Paneer,Main Course,250.0,1,1
+244,55,Veg Spring Roll,Starters,150.0,1,1
+245,78,Veg Biryani,Rice & Biryani,290.0,1,1
+246,109,Hara Bhara Kebab,Starters,190.0,1,1
+247,20,Palak Paneer,Main Course,190.0,1,1
+248,20,Veg Kolhapuri,Main Course,280.0,1,1
+249,29,Gajar Halwa,Desserts,140.0,0,1
+250,112,Kadai Chicken,Main Course,320.0,1,1
+251,80,Fried Rice,Rice & Biryani,320.0,0,1
+252,23,Fish Curry,Main Course,350.0,0,1
+253,54,Butter Naan,Breads,50.0,1,1
+254,130,Lassi,Beverages,110.0,1,1
+255,10,Lachha Paratha,Breads,70.0,1,1
+256,73,Butter Chicken,Main Course,250.0,1,0
+257,67,Steam Rice,Rice & Biryani,270.0,1,1
+258,39,Mutton Rogan Josh,Main Course,270.0,1,0
+259,84,Chicken Curry,Main Course,280.0,1,1
+260,48,Garlic Naan,Breads,60.0,1,1
+261,14,Salad,Sides,60.0,1,1
+262,148,Lassi,Beverages,80.0,1,1
+263,137,Chicken Curry,Main Course,180.0,1,1
+264,42,Brownie,Desserts,120.0,1,1
+265,40,Jeera Rice,Rice & Biryani,170.0,1,0
+266,21,Fish Curry,Main Course,320.0,1,0
+267,66,Steam Rice,Rice & Biryani,270.0,1,0
+268,110,Paratha,Breads,60.0,1,1
+269,89,Value Meal,Combos,620.0,1,0
+270,66,Hara Bhara Kebab,Starters,140.0,0,0
+271,148,Value Meal,Combos,510.0,0,1
+272,42,Paneer Tikka,Starters,200.0,1,1
+273,96,Steam Rice,Rice & Biryani,200.0,1,0
+274,115,Ice Cream,Desserts,80.0,1,1
+275,137,Chicken Tikka,Starters,170.0,1,1
+276,111,Veg Kolhapuri,Main Course,200.0,1,1
+277,128,Butter Chicken,Main Course,210.0,1,0
+278,14,Chole Masala,Main Course,310.0,1,1
+279,8,Paratha,Breads,70.0,1,1
+280,43,Mutton Rogan Josh,Main Course,330.0,1,0
+281,114,Paneer Tikka,Starters,160.0,1,1
+282,103,Mango Shake,Beverages,100.0,1,1
+283,17,Mango Shake,Beverages,110.0,1,1
+284,85,Tandoori Roti,Breads,70.0,1,1
+285,140,Butter Chicken,Main Course,270.0,1,0
+286,82,Chole Masala,Main Course,340.0,1,1
+287,102,Pickle,Sides,40.0,0,1
+288,38,Egg Curry,Main Course,180.0,1,0
+289,100,Veg Spring Roll,Starters,160.0,1,1
+290,91,Fish Fry,Starters,200.0,1,1
+291,60,Veg Biryani,Rice & Biryani,280.0,1,1
+292,20,Family Combo,Combos,530.0,1,0
+293,45,Butter Naan,Breads,40.0,1,1
+294,42,Egg Biryani,Rice & Biryani,180.0,1,0
+295,34,Salad,Sides,50.0,0,1
+296,101,Tandoori Roti,Breads,40.0,1,1
+297,141,Veg Kolhapuri,Main Course,300.0,1,1
+298,119,Tandoori Roti,Breads,40.0,1,1
+299,140,Cold Coffee,Beverages,70.0,1,1
+300,137,Palak Paneer,Main Course,330.0,0,1
+301,70,Papad,Sides,40.0,0,1
+302,19,Veg Biryani,Rice & Biryani,210.0,1,1
+303,115,Nimbu Pani,Beverages,110.0,0,1
+304,54,Garlic Naan,Breads,50.0,1,1
+305,70,Fish Fry,Starters,160.0,1,1
+306,121,Veg Spring Roll,Starters,190.0,1,1
+307,32,Butter Chicken,Main Course,270.0,1,1
+308,146,Fish Curry,Main Course,340.0,1,1
+309,15,Mint Chutney,Sides,60.0,1,1
+310,69,Student Special,Combos,540.0,1,1
+311,79,Butter Naan,Breads,60.0,1,1
+312,102,Butter Chicken,Main Course,180.0,0,0
+313,128,Jeera Rice,Rice & Biryani,260.0,0,0
+314,23,Mutton Rogan Josh,Main Course,320.0,1,1
+315,115,Paratha,Breads,60.0,0,1
+316,26,Fish Fry,Starters,190.0,1,1
+317,27,Kadai Chicken,Main Course,310.0,1,1
+318,105,Cold Coffee,Beverages,90.0,1,1
+319,21,Crispy Corn,Starters,180.0,1,0
+320,88,Chicken Wings,Starters,100.0,1,0
+321,54,Kadai Chicken,Main Course,310.0,1,0
+322,115,Samosa (2pc),Starters,170.0,1,0
+323,68,Butter Naan,Breads,50.0,1,1
+324,18,Salad,Sides,30.0,1,1
+325,63,Mutton Rogan Josh,Main Course,190.0,1,0
+326,135,Fish Fry,Starters,110.0,1,1
+327,1,Rasgulla,Desserts,110.0,1,1
+328,117,Jeera Rice,Rice & Biryani,230.0,0,0
+329,27,Chicken Wings,Starters,110.0,1,0
+330,16,Samosa (2pc),Starters,110.0,1,1
+331,143,Family Combo,Combos,450.0,1,1
+332,120,Crispy Corn,Starters,180.0,1,0
+333,124,Nimbu Pani,Beverages,100.0,1,1
+334,26,Kheer,Desserts,120.0,1,1
+335,121,Mint Chutney,Sides,40.0,1,1
+336,50,Brownie,Desserts,110.0,1,1
+337,136,Butter Chicken,Main Course,290.0,1,1
+338,58,Veg Kolhapuri,Main Course,210.0,1,1
+339,79,Value Meal,Combos,550.0,1,1
+340,86,Soft Drink,Beverages,60.0,1,1
+341,122,Chicken Wings,Starters,150.0,0,0
+342,72,Chicken Tikka,Starters,190.0,1,0
+343,23,Value Meal,Combos,680.0,1,1
+344,43,Butter Naan,Breads,60.0,1,1
+345,132,Egg Curry,Main Course,330.0,1,0
+346,141,Meal for 2,Combos,650.0,1,1
+347,125,Veg Kolhapuri,Main Course,180.0,1,1
+348,43,Cold Coffee,Beverages,70.0,1,1
+349,37,Meal for 2,Combos,420.0,1,1
+350,95,Fish Fry,Starters,170.0,1,1
+351,133,Paratha,Breads,60.0,1,1
+352,127,Tandoori Roti,Breads,40.0,1,1
+353,21,Chole Masala,Main Course,300.0,0,0
+354,17,Dal Makhani,Main Course,320.0,1,1
+355,130,Chicken Tikka,Starters,100.0,0,0
+356,34,Veg Kolhapuri,Main Course,310.0,1,1
+357,27,Chicken Curry,Main Course,300.0,1,0
+358,94,Samosa (2pc),Starters,160.0,1,0
+359,52,Student Special,Combos,580.0,1,0
+360,55,Family Combo,Combos,410.0,1,0
+361,64,Tandoori Roti,Breads,60.0,1,1
+362,66,Soft Drink,Beverages,100.0,1,1
+363,108,Value Meal,Combos,670.0,1,0
+364,17,Paneer Tikka,Starters,190.0,1,1
+365,48,Student Special,Combos,450.0,0,1
+366,84,Gajar Halwa,Desserts,130.0,1,1
+367,21,Chicken Curry,Main Course,270.0,1,0
+368,24,Chicken Biryani,Rice & Biryani,320.0,0,1
+369,128,Chicken Wings,Starters,170.0,1,1
+370,84,Hara Bhara Kebab,Starters,130.0,1,0
+371,122,Buttermilk,Beverages,80.0,1,1
+372,66,Samosa (2pc),Starters,190.0,1,1
+373,123,Egg Curry,Main Course,260.0,1,0
+374,75,Crispy Corn,Starters,130.0,1,1
+375,21,Mutton Rogan Josh,Main Course,310.0,1,0
+376,80,Lassi,Beverages,70.0,1,1
+377,54,Mint Chutney,Sides,30.0,1,1
+378,75,Dal Makhani,Main Course,320.0,1,1
+379,56,Nimbu Pani,Beverages,70.0,1,1
+380,93,Mutton Rogan Josh,Main Course,310.0,1,1
+381,25,Meal for 2,Combos,560.0,1,0
+382,76,Tandoori Roti,Breads,40.0,1,1
+383,140,Chicken Curry,Main Course,200.0,0,0
+384,148,Veg Kolhapuri,Main Course,350.0,1,1
+385,70,Cold Coffee,Beverages,90.0,1,1
+386,88,Lachha Paratha,Breads,70.0,1,1
+387,69,Family Combo,Combos,650.0,1,1
+388,96,Mango Shake,Beverages,60.0,1,1
+389,63,Kheer,Desserts,70.0,1,1
+390,110,Fried Rice,Rice & Biryani,270.0,1,0
+391,94,Butter Naan,Breads,70.0,1,1
+392,134,Tandoori Roti,Breads,60.0,1,1
+393,110,Cold Coffee,Beverages,80.0,1,1
+394,79,Egg Biryani,Rice & Biryani,250.0,1,1
+395,27,Butter Naan,Breads,60.0,1,1
+396,40,Gajar Halwa,Desserts,90.0,1,1
+397,80,Fish Curry,Main Course,310.0,1,0
+398,32,Veg Spring Roll,Starters,120.0,1,1
+399,80,Chicken Tikka,Starters,190.0,1,1
+400,72,Egg Biryani,Rice & Biryani,190.0,1,1
+401,27,Jeera Rice,Rice & Biryani,230.0,1,1
+402,94,Chicken Biryani,Rice & Biryani,230.0,0,1
+403,95,Veg Spring Roll,Starters,120.0,1,1
+404,120,Lachha Paratha,Breads,60.0,1,1
+405,138,Fish Curry,Main Course,220.0,1,0
+406,72,Fried Rice,Rice & Biryani,180.0,1,0
+407,143,Dal Makhani,Main Course,250.0,1,1
+408,138,Kheer,Desserts,120.0,0,1
+409,51,Mutton Biryani,Rice & Biryani,200.0,1,0
+410,43,Student Special,Combos,570.0,1,1
+411,27,Fried Rice,Rice & Biryani,240.0,0,0
+412,90,Kadai Chicken,Main Course,180.0,1,1
+413,45,Hara Bhara Kebab,Starters,170.0,1,1
+414,19,Mango Shake,Beverages,100.0,1,1
+415,78,Soft Drink,Beverages,70.0,1,1
+416,27,Family Combo,Combos,660.0,1,0
+417,52,Mint Chutney,Sides,60.0,1,1
+418,131,Paratha,Breads,50.0,1,1
+419,130,Palak Paneer,Main Course,270.0,1,1
+420,35,Veg Biryani,Rice & Biryani,270.0,1,1
+421,63,Paneer Tikka,Starters,160.0,1,1
+422,52,Ice Cream,Desserts,130.0,0,1
+423,121,Butter Naan,Breads,40.0,1,1
+424,108,Lassi,Beverages,90.0,1,1
+425,29,Mutton Biryani,Rice & Biryani,200.0,1,1
+426,124,Kheer,Desserts,140.0,1,1
+427,10,Veg Kolhapuri,Main Course,280.0,1,1
+428,38,Palak Paneer,Main Course,240.0,1,1
+429,35,Palak Paneer,Main Course,220.0,1,1
+430,26,Brownie,Desserts,130.0,1,1
+431,13,Chicken Wings,Starters,210.0,1,0
+432,38,Value Meal,Combos,540.0,1,1
+433,111,Gajar Halwa,Desserts,90.0,1,1
+434,33,Party Pack,Combos,670.0,1,0
+435,96,Butter Naan,Breads,70.0,1,1
+436,93,Buttermilk,Beverages,110.0,1,1
+437,23,Kheer,Desserts,130.0,1,1
+438,137,Egg Biryani,Rice & Biryani,300.0,1,1
+439,55,Value Meal,Combos,580.0,1,0
+440,21,Crispy Corn,Starters,150.0,1,1
+441,54,Veg Biryani,Rice & Biryani,190.0,0,1
+442,66,Mutton Rogan Josh,Main Course,290.0,1,1
+443,58,Fried Rice,Rice & Biryani,180.0,1,1
+444,76,Chicken Wings,Starters,110.0,1,1
+445,23,Party Pack,Combos,530.0,1,1
+446,43,Palak Paneer,Main Course,300.0,1,1
+447,72,Chicken Wings,Starters,110.0,1,0
+448,105,Buttermilk,Beverages,110.0,1,1
+449,24,Chicken Curry,Main Course,210.0,1,1
+450,111,Chole Masala,Main Course,240.0,1,1
+451,35,Mango Shake,Beverages,60.0,1,1
+452,52,Butter Chicken,Main Course,270.0,1,1
+453,102,Crispy Corn,Starters,170.0,1,1
+454,135,Chicken Tikka,Starters,160.0,1,1
+455,101,Kheer,Desserts,120.0,1,1
+456,20,Steam Rice,Rice & Biryani,320.0,1,1
+457,82,Crispy Corn,Starters,170.0,1,0
+458,35,Meal for 2,Combos,570.0,0,1
+459,61,Paneer Tikka,Starters,120.0,1,1
+460,90,Soft Drink,Beverages,70.0,1,1
+461,57,Fried Rice,Rice & Biryani,300.0,1,0
+462,131,Mango Shake,Beverages,110.0,1,1
+463,73,Soft Drink,Beverages,60.0,1,1
+464,6,Cold Coffee,Beverages,80.0,1,1
+465,95,Kheer,Desserts,90.0,1,1
+466,124,Veg Biryani,Rice & Biryani,290.0,1,1
+467,95,Veg Kolhapuri,Main Course,200.0,1,1
+468,60,Chicken Tikka,Starters,160.0,1,1
+469,29,Kheer,Desserts,100.0,1,1
+470,33,Veg Biryani,Rice & Biryani,320.0,1,1
+471,17,Meal for 2,Combos,650.0,1,1
+472,17,Kadai Chicken,Main Course,210.0,1,0
+473,98,Soft Drink,Beverages,80.0,1,1
+474,75,Fish Fry,Starters,150.0,1,1
+475,130,Gajar Halwa,Desserts,100.0,1,1
+476,14,Tandoori Roti,Breads,60.0,1,1
+477,39,Chicken Biryani,Rice & Biryani,290.0,1,0
+478,42,Chicken Curry,Main Course,270.0,1,0
+479,52,Gulab Jamun,Desserts,80.0,1,1
+480,64,Family Combo,Combos,510.0,1,0
+481,78,Butter Naan,Breads,50.0,1,1
+482,20,Student Special,Combos,660.0,1,1
+483,136,Samosa (2pc),Starters,130.0,1,1
+484,5,Hara Bhara Kebab,Starters,130.0,1,1
+485,72,Fish Fry,Starters,170.0,1,0
+486,35,Salad,Sides,60.0,1,1
+487,103,Value Meal,Combos,450.0,1,1
+488,52,Chicken Wings,Starters,180.0,1,1
+489,141,Gulab Jamun,Desserts,140.0,1,1
+490,31,Paratha,Breads,50.0,1,1
+491,70,Family Combo,Combos,510.0,1,1
+492,98,Kadai Chicken,Main Course,350.0,1,1
+493,128,Hara Bhara Kebab,Starters,190.0,1,1
+494,6,Pickle,Sides,50.0,1,1
+495,31,Palak Paneer,Main Course,180.0,1,1
+496,92,Mutton Rogan Josh,Main Course,220.0,1,1
+497,29,Chole Masala,Main Course,250.0,1,0
+498,84,Gajar Halwa,Desserts,90.0,1,1
+499,5,Mutton Rogan Josh,Main Course,310.0,1,0
+500,64,Rasgulla,Desserts,100.0,1,1
+501,48,Mango Shake,Beverages,70.0,1,1
+502,113,Butter Chicken,Main Course,350.0,1,1
+503,39,Veg Biryani,Rice & Biryani,270.0,1,1
+504,119,Meal for 2,Combos,390.0,1,0
+505,56,Gajar Halwa,Desserts,70.0,1,1
+506,95,Ice Cream,Desserts,110.0,1,1
+507,72,Crispy Corn,Starters,190.0,1,0
+508,51,Veg Kolhapuri,Main Course,340.0,1,1
+509,48,Butter Chicken,Main Course,250.0,1,1
+510,132,Cold Coffee,Beverages,110.0,1,1
+511,70,Rasgulla,Desserts,120.0,1,1
+512,39,Butter Naan,Breads,50.0,1,1
+513,111,Hara Bhara Kebab,Starters,190.0,1,0
+514,148,Crispy Corn,Starters,150.0,1,0
+515,5,Kheer,Desserts,100.0,1,1
+516,104,Gajar Halwa,Desserts,100.0,1,1
+517,40,Fish Curry,Main Course,180.0,1,0
+518,113,Mutton Rogan Josh,Main Course,340.0,1,0
+519,37,Crispy Corn,Starters,170.0,1,0
+520,129,Butter Naan,Breads,60.0,1,1
+521,119,Fish Curry,Main Course,330.0,1,1
+522,124,Paneer Tikka,Starters,180.0,1,1
+523,103,Veg Biryani,Rice & Biryani,200.0,1,1
+524,109,Fried Rice,Rice & Biryani,180.0,1,0
+525,94,Tandoori Roti,Breads,60.0,1,1
+526,85,Buttermilk,Beverages,100.0,0,1
+527,8,Cold Coffee,Beverages,100.0,1,1
+528,133,Samosa (2pc),Starters,160.0,1,0
+529,111,Tandoori Roti,Breads,60.0,1,1
+530,122,Lassi,Beverages,90.0,1,1
+531,115,Paratha,Breads,50.0,1,1
+532,13,Ice Cream,Desserts,130.0,1,1
+533,109,Family Combo,Combos,530.0,0,0
+534,123,Gajar Halwa,Desserts,80.0,0,1
+535,129,Mutton Biryani,Rice & Biryani,250.0,1,1
+536,112,Chicken Curry,Main Course,310.0,1,0
+537,77,Lassi,Beverages,90.0,1,1
+538,54,Mutton Biryani,Rice & Biryani,240.0,1,0
+539,35,Buttermilk,Beverages,90.0,0,1
+540,40,Raita,Sides,50.0,1,1
+541,56,Kadai Chicken,Main Course,300.0,1,1
+542,124,Egg Biryani,Rice & Biryani,240.0,0,0
+543,14,Fried Rice,Rice & Biryani,260.0,1,1
+544,45,Mint Chutney,Sides,40.0,0,1
+545,39,Jeera Rice,Rice & Biryani,290.0,1,0
+546,128,Veg Spring Roll,Starters,190.0,1,1
+547,130,Soft Drink,Beverages,100.0,1,1
+548,79,Chicken Biryani,Rice & Biryani,230.0,1,1
+549,105,Dal Makhani,Main Course,240.0,1,1
+550,95,Family Combo,Combos,400.0,1,1
+551,137,Brownie,Desserts,120.0,0,1
+552,104,Veg Biryani,Rice & Biryani,170.0,0,1
+553,124,Crispy Corn,Starters,110.0,1,0
+554,69,Chicken Biryani,Rice & Biryani,240.0,1,0
+555,85,Chicken Biryani,Rice & Biryani,250.0,1,0
+556,77,Palak Paneer,Main Course,270.0,1,1
+557,70,Steam Rice,Rice & Biryani,310.0,1,1
+558,132,Fried Rice,Rice & Biryani,330.0,1,0
+559,77,Hara Bhara Kebab,Starters,200.0,1,1
+560,101,Dal Makhani,Main Course,250.0,1,1
+561,146,Chicken Biryani,Rice & Biryani,290.0,1,1
+562,134,Crispy Corn,Starters,150.0,1,0
+563,88,Paneer Tikka,Starters,130.0,1,1
+564,13,Fried Rice,Rice & Biryani,200.0,0,0
+565,109,Party Pack,Combos,460.0,1,1
+566,101,Nimbu Pani,Beverages,70.0,0,1
+567,110,Ice Cream,Desserts,140.0,1,1
+568,5,Cold Coffee,Beverages,100.0,0,1
+569,25,Chole Masala,Main Course,210.0,1,0
+570,148,Meal for 2,Combos,530.0,1,0
+571,91,Value Meal,Combos,520.0,1,0
+572,42,Steam Rice,Rice & Biryani,300.0,1,1
+573,42,Palak Paneer,Main Course,320.0,1,1
+574,54,Hara Bhara Kebab,Starters,130.0,1,1
+575,84,Brownie,Desserts,110.0,1,1
+576,63,Kheer,Desserts,120.0,0,1
+577,136,Tandoori Roti,Breads,70.0,1,1
+578,90,Hara Bhara Kebab,Starters,190.0,1,1
+579,42,Veg Biryani,Rice & Biryani,330.0,1,1
+580,26,Salad,Sides,40.0,1,1
+581,68,Gajar Halwa,Desserts,130.0,0,1
+582,69,Dal Makhani,Main Course,200.0,1,1
+583,93,Brownie,Desserts,140.0,1,1
+584,12,Salad,Sides,50.0,1,1
+585,29,Mint Chutney,Sides,50.0,1,1
+586,70,Egg Curry,Main Course,340.0,1,1
+587,31,Chole Masala,Main Course,240.0,0,0
+588,96,Value Meal,Combos,640.0,1,0
+589,37,Veg Kolhapuri,Main Course,310.0,1,1
+590,68,Egg Biryani,Rice & Biryani,290.0,1,0
+591,63,Student Special,Combos,360.0,1,1
+592,88,Veg Kolhapuri,Main Course,340.0,1,1
+593,140,Mutton Biryani,Rice & Biryani,180.0,1,0
+594,122,Mutton Biryani,Rice & Biryani,330.0,1,0
+595,1,Party Pack,Combos,470.0,1,1
+596,146,Kadai Chicken,Main Course,300.0,0,1
+597,119,Mango Shake,Beverages,100.0,1,1
+598,117,Family Combo,Combos,440.0,1,0
+599,86,Ice Cream,Desserts,100.0,0,1
+600,132,Mutton Biryani,Rice & Biryani,170.0,1,1
+601,103,Fish Curry,Main Course,230.0,1,0
+602,51,Party Pack,Combos,580.0,1,0
+603,13,Mutton Biryani,Rice & Biryani,220.0,1,1
+604,72,Butter Naan,Breads,60.0,1,1
+605,141,Mutton Biryani,Rice & Biryani,320.0,1,0
+606,104,Papad,Sides,40.0,1,1
+607,1,Hara Bhara Kebab,Starters,130.0,0,1
+608,99,Butter Naan,Breads,70.0,1,1
+609,57,Salad,Sides,60.0,1,1
+610,117,Fried Rice,Rice & Biryani,220.0,1,1
+611,42,Kheer,Desserts,110.0,1,1
+612,27,Dal Makhani,Main Course,290.0,1,1
+613,100,Fish Curry,Main Course,190.0,1,1
+614,82,Palak Paneer,Main Course,190.0,0,1
+615,60,Fish Fry,Starters,110.0,1,0
+616,11,Hara Bhara Kebab,Starters,190.0,1,0
+617,96,Egg Curry,Main Course,210.0,1,0
+618,52,Cold Coffee,Beverages,100.0,1,1
+619,133,Lachha Paratha,Breads,60.0,1,1
+620,82,Paratha,Breads,60.0,1,1
+621,135,Chicken Wings,Starters,140.0,1,0
+622,111,Ice Cream,Desserts,100.0,1,1
+623,98,Crispy Corn,Starters,170.0,0,1
+624,17,Garlic Naan,Breads,70.0,1,1
+625,89,Chicken Biryani,Rice & Biryani,210.0,1,1
+626,10,Chicken Biryani,Rice & Biryani,260.0,1,0
+627,60,Dal Makhani,Main Course,300.0,1,1
+628,56,Student Special,Combos,450.0,1,1
+629,108,Kadai Chicken,Main Course,290.0,0,0
+630,103,Paratha,Breads,40.0,1,1
+631,96,Butter Chicken,Main Course,300.0,1,1
+632,21,Chicken Biryani,Rice & Biryani,340.0,1,0
+633,31,Paneer Tikka,Starters,170.0,1,1
+634,67,Brownie,Desserts,120.0,1,1
+635,63,Value Meal,Combos,560.0,1,1
+636,101,Raita,Sides,50.0,1,1
+637,5,Chole Masala,Main Course,200.0,1,0
+638,141,Fish Curry,Main Course,300.0,1,0
+639,115,Fish Curry,Main Course,200.0,1,0
+640,98,Papad,Sides,40.0,1,1
+641,142,Chicken Biryani,Rice & Biryani,300.0,1,1
+642,11,Jeera Rice,Rice & Biryani,260.0,0,0
+643,97,Dal Makhani,Main Course,280.0,1,1
+644,90,Brownie,Desserts,120.0,0,1
+645,135,Dal Makhani,Main Course,210.0,1,1
+646,25,Ice Cream,Desserts,80.0,1,1
+647,48,Jeera Rice,Rice & Biryani,180.0,1,1
+648,40,Dal Makhani,Main Course,200.0,1,1
+649,10,Egg Curry,Main Course,320.0,1,0
+650,25,Chicken Wings,Starters,170.0,1,0
+651,79,Tandoori Roti,Breads,50.0,1,1
+652,80,Lassi,Beverages,100.0,1,1
+653,109,Brownie,Desserts,140.0,1,1
+654,121,Fish Fry,Starters,180.0,1,1
+655,117,Mutton Rogan Josh,Main Course,250.0,1,1
+656,69,Fish Fry,Starters,120.0,1,1
+657,144,Chicken Wings,Starters,210.0,1,1
+658,15,Cold Coffee,Beverages,60.0,1,1
+659,129,Egg Biryani,Rice & Biryani,170.0,0,1
+660,12,Butter Chicken,Main Course,250.0,1,1
+661,40,Butter Naan,Breads,50.0,1,1
+662,88,Family Combo,Combos,590.0,1,0
+663,100,Chicken Biryani,Rice & Biryani,170.0,1,0
+664,96,Veg Spring Roll,Starters,110.0,1,1
+665,102,Hara Bhara Kebab,Starters,120.0,1,1
+666,27,Soft Drink,Beverages,100.0,1,1
+667,112,Mutton Biryani,Rice & Biryani,310.0,1,0
+668,67,Fish Fry,Starters,110.0,1,1
+669,60,Student Special,Combos,700.0,1,1
+670,128,Kadai Chicken,Main Course,340.0,1,1
+671,120,Jeera Rice,Rice & Biryani,220.0,1,1
+672,38,Chicken Biryani,Rice & Biryani,260.0,1,0
+673,114,Egg Biryani,Rice & Biryani,230.0,1,0
+674,50,Party Pack,Combos,630.0,1,1
+675,27,Value Meal,Combos,650.0,1,0
+676,82,Chicken Biryani,Rice & Biryani,220.0,1,0
+677,40,Pickle,Sides,40.0,1,1
+678,24,Fish Curry,Main Course,180.0,1,1
+679,135,Fried Rice,Rice & Biryani,240.0,0,0
+680,23,Dal Makhani,Main Course,240.0,1,1
+681,15,Chicken Curry,Main Course,300.0,1,0
+682,109,Lassi,Beverages,80.0,1,1
+683,55,Tandoori Roti,Breads,50.0,1,1
+684,63,Samosa (2pc),Starters,140.0,1,1
+685,54,Tandoori Roti,Breads,40.0,1,1
+686,45,Cold Coffee,Beverages,70.0,1,1
+687,55,Soft Drink,Beverages,90.0,1,1
+688,77,Chicken Tikka,Starters,180.0,0,1
+689,73,Papad,Sides,60.0,1,1
+690,37,Paratha,Breads,70.0,1,1
+691,33,Value Meal,Combos,540.0,1,1
+692,67,Chicken Biryani,Rice & Biryani,230.0,1,0
+693,42,Pickle,Sides,60.0,1,1
+694,17,Mutton Biryani,Rice & Biryani,310.0,1,0
+695,93,Butter Chicken,Main Course,280.0,1,0
+696,37,Palak Paneer,Main Course,300.0,1,1
+697,80,Palak Paneer,Main Course,210.0,0,1
+698,68,Butter Chicken,Main Course,210.0,1,0
+699,56,Palak Paneer,Main Course,320.0,0,1
+700,140,Pickle,Sides,50.0,1,1
+701,32,Egg Curry,Main Course,260.0,1,0
+702,38,Cold Coffee,Beverages,90.0,1,1
+703,40,Lassi,Beverages,90.0,1,1
+704,1,Chicken Wings,Starters,130.0,1,1
+705,51,Samosa (2pc),Starters,160.0,1,0
+706,138,Fried Rice,Rice & Biryani,280.0,1,1
+707,135,Samosa (2pc),Starters,180.0,1,1
+708,13,Student Special,Combos,480.0,1,0
+709,34,Mutton Biryani,Rice & Biryani,190.0,1,1
+710,125,Chicken Curry,Main Course,210.0,1,1
+711,101,Mango Shake,Beverages,110.0,1,1
+712,78,Garlic Naan,Breads,70.0,1,1
+713,115,Chicken Biryani,Rice & Biryani,330.0,1,1
+714,117,Paratha,Breads,40.0,1,1
+715,12,Butter Chicken,Main Course,230.0,1,1
+716,24,Chicken Biryani,Rice & Biryani,290.0,1,1
+717,126,Nimbu Pani,Beverages,60.0,1,1
+718,46,Fish Fry,Starters,150.0,1,0
+719,72,Garlic Naan,Breads,50.0,0,1
+720,132,Meal for 2,Combos,360.0,1,1
+721,33,Brownie,Desserts,140.0,1,1
+722,126,Ice Cream,Desserts,140.0,1,1
+723,149,Butter Naan,Breads,50.0,1,1
+724,55,Steam Rice,Rice & Biryani,270.0,1,0
+725,96,Buttermilk,Beverages,90.0,1,1
+726,132,Veg Biryani,Rice & Biryani,310.0,1,1
+727,15,Veg Kolhapuri,Main Course,250.0,1,1
+728,100,Party Pack,Combos,370.0,1,0
+729,25,Ice Cream,Desserts,90.0,1,1
+730,120,Kadai Chicken,Main Course,220.0,1,0
+731,18,Veg Kolhapuri,Main Course,280.0,0,1
+732,89,Gulab Jamun,Desserts,120.0,0,1
+733,57,Jeera Rice,Rice & Biryani,320.0,1,0
+734,1,Mango Shake,Beverages,90.0,1,1
+735,112,Salad,Sides,40.0,1,1
+736,96,Papad,Sides,60.0,1,1
+737,130,Meal for 2,Combos,480.0,1,1
+738,14,Gajar Halwa,Desserts,110.0,0,1
+739,23,Veg Kolhapuri,Main Course,290.0,1,1
+740,13,Veg Kolhapuri,Main Course,350.0,1,1
+741,66,Egg Biryani,Rice & Biryani,290.0,0,0
+742,112,Buttermilk,Beverages,90.0,1,1
+743,78,Buttermilk,Beverages,90.0,0,1
+744,46,Chole Masala,Main Course,270.0,1,1
+745,93,Ice Cream,Desserts,90.0,1,1
+746,40,Mint Chutney,Sides,60.0,1,1
+747,34,Dal Makhani,Main Course,180.0,1,1
+748,94,Student Special,Combos,390.0,1,0
+749,18,Tandoori Roti,Breads,70.0,1,1
+750,110,Veg Biryani,Rice & Biryani,220.0,1,1
